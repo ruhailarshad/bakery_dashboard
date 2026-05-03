@@ -5,7 +5,7 @@
 - **Python 3.10+** (3.11 or 3.12 recommended)
 - Project data file in this folder (same directory as the scripts):
 
-  `Data Visualisation - COM7021 - [4566] Bakery- supporting document .xlsx`
+  `data/bakery_data.xlsx
 
 ## Install dependencies
 
